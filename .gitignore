@@ -1,0 +1,7 @@
+out/
+data/
+sources.txt
+*.class
+*.log
+.idea/
+*.iml
